@@ -17,3 +17,5 @@ repositories {
 }
 
 ```
+
+<h4>NOTE: this library is currently under development</h4>
