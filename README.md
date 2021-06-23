@@ -9,7 +9,7 @@ In your gradle.build
 ```
 
 dependencies {
-    implementation 'com.github.Jomy10:Jonas-Utils-Android:1.0.0'
+    implementation 'com.github.Jomy10:Jonas-Utils-Android:1.0.0-SNAPSHOT'
 }
 
 repositories {
